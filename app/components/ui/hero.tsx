@@ -1,5 +1,3 @@
-import Navbar from "../sub-components/navbar";
-
 const Hero = () => {
   return (
     <div className="hero-container flex flex-col">
